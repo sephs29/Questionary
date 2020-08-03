@@ -28,6 +28,6 @@ Using the combination, questions are generated.
 <br>
 <br>Using 2019 Ipl data, for sample.
 <br>
-<img src = 'result/image1.jpg'>
+<br><img src = 'result/image1.jpg'>
 <br>
 <img src = 'result/popup.jpg'>
