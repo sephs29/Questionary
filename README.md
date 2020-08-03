@@ -26,6 +26,7 @@ Using the combination, questions are generated.
 <br><b> Part 3 </b>
 <br>Using tkinter, quesion and the corresponding options are populated on the screen. On selection of an option, a pop-up box with message appears.
 <br>
+<br>Using 2019 Ipl data, for sample.
 <br>
 <img src = 'result/image1.jpg'>
 <br>
