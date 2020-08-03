@@ -6,6 +6,7 @@ Python version: 3.6.8
 1) creating a database
 2) creating question with appropriate options, and a single correct answer
 3) populating the question, options into GUI, and providing messages on selection of an option.
+<br>
 <br>Part 1
 <br>A list of player with details is required, with name of the players under the column 'Player'.
 <br>The file format must be in .csv
@@ -18,7 +19,7 @@ Python version: 3.6.8
 <br>
 <br>Part 2
 <br>Questions are generated using question.csv(.csv file format is mandatory). The question.csv has mandatory columns: question, tag, not_flag.
-<br>Using the combination, questions are generated.
+Using the combination, questions are generated.
 <br>
 <br>Using <u>tag</u>, appropriate columns are populated, and corresponding image for each option is selected.(Note: Only one option is a correct answer.)
 <br>
