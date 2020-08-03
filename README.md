@@ -14,14 +14,14 @@ Python version: 3.6.8
 <br>There are two image repository that is created: 
 1) with only the faces of players, which is pickled 
 2) with players(not specified for face images)
-<br>All the images in the <u>second repository</u> are screened for the presence of a single player and then screened to recognise the faces using the respective pickle file.
+<br>All the images in the <u> second repository </u> are screened for the presence of a single player and then screened to recognise the faces using the respective pickle file.
 <br>This forms the database of images for all the players.
 <br>
-<br>Part 2
+<br><b> Part 2 </b>
 <br>Questions are generated using question.csv(.csv file format is mandatory). The question.csv has mandatory columns: question, tag, not_flag.
 Using the combination, questions are generated.
 <br>
-<br>Using <u>tag</u>, appropriate columns are populated, and corresponding image for each option is selected.(Note: Only one option is a correct answer.)
+<br>Using <u> tag </u>, appropriate columns are populated, and corresponding image for each option is selected.(Note: Only one option is a correct answer.)
 <br>
-<br>Part 3
+<br><b> Part 3 </b>
 <br>Using tkinter, quesion and the corresponding options are populated on the screen. On selection of an option, a pop-up box with message appears.
