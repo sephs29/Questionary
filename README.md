@@ -25,3 +25,7 @@ Using the combination, questions are generated.
 <br>
 <br><b> Part 3 </b>
 <br>Using tkinter, quesion and the corresponding options are populated on the screen. On selection of an option, a pop-up box with message appears.
+<br>
+<img src = 'result/image1.jpg'>
+<br>
+<img src = 'result/popup.jpg'>
