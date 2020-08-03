@@ -7,7 +7,7 @@ Python version: 3.6.8
 2) creating question with appropriate options, and a single correct answer
 3) populating the question, options into GUI, and providing messages on selection of an option.
 <br>
-<br>Part 1
+<br> <b> Part 1 </b>
 <br>A list of player with details is required, with name of the players under the column 'Player'.
 <br>The file format must be in .csv
 <br>Using the list of names from the column 'Player'. Images of the players are downloaded.(Note: one can set the 'Usage Rights' for the images to be downloaded.)
